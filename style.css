@@ -1,0 +1,154 @@
+* {outline:solid 1px black;
+}
+
+
+
+html, body, .container-fluid, .row {
+height:100%;
+}
+
+
+
+
+
+.tree-image{
+    background-image:url("http://awallpapersimages.com/wp-content/uploads/2016/07/Beautiful-Natural-Trees-HD-Wallpapers.jpg");
+ 
+}
+
+#tree{
+font-size:7rem;
+border-radius:50%;
+border:solid 2px black;
+background-color:white;
+
+}
+
+.leaves{
+
+font-size:5rem;
+color:rgba(0,0,0,.85);
+}
+.one {
+    background-color:black;
+    display:flex;
+    align-items:center;
+    width:100%;
+}
+
+.two{
+    height:500px;
+     color:white;
+     width:100%;
+    display:flex;
+    font-size:200px;
+    justify-content:center;
+    align-items:center;
+  
+
+
+}
+
+
+.three{
+    height:315px;
+    background-image:url("https://3v6x691yvn532gp2411ezrib-wpengine.netdna-ssl.com/wp-content/uploads/sites/default/files/story_images/20090930_Wood_Texture_by_xNickixstockx.jpg");
+   
+}
+.top-bar{
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    font-family:"Poppins",sans-serif;
+  
+    
+
+}
+
+.black-line{
+ height:20px;
+ background-color:black;
+}
+h1 {
+    font-size:6rem;
+    opacity:1;
+    background-color:rgba(0,0,0,.75);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-bottom:-10px;
+    font-family:"Poppins",sans-serif;
+}
+
+h4{
+    font-size:2rem;
+   background-color:rgba(0,0,0,.75);
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius:15px;
+   font-style:italic;
+  
+}
+
+h3{
+    font-size:4rem;
+    background-color:rgba(0,0,0,.75);
+    color:white;
+    border-radius:15px;
+}
+.four{
+    background-color:#027533;
+    height:500px;
+  
+}
+
+.images{
+    display:flex;
+    justify-content:center;
+    justify-content:space-between;
+   
+
+}
+
+
+.vertical-align{
+    display:flex; 
+    align-items:center; 
+}
+
+.image{
+    border-radius:15px;
+    border:1px solid black;
+}
+
+.five{background-color:black;
+    height:76px;
+
+}
+
+.pledge{
+    border-radius:15px;
+   
+    font-size:3rem;
+    display:flex;
+    flex-wrap:wrap;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.pledge-center{
+    justify-content:flex-start;
+}
+
+.row-two-items{
+    display:flex;
+    flex-direction:column;
+    
+}
+.horizontal-align{
+    display:flex;
+    justify-content:center;
+}
+
+.five{
+    display:flex;
+    justify-content:flex-end;
+    align-content:center;
+}
